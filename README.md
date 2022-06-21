@@ -18,3 +18,6 @@ Credits to (https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-anal
 <a href="https://linkedin.com/in/www.linkedin.com/in/cgkj-3b6857185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cgkj-3b6857185" height="30" width="40" /></a>
 </p>
 
+![BEST_COMBO_pipeline](https://user-images.githubusercontent.com/83624724/174799320-983c6bbc-f237-4135-b07f-b4d2807067be.PNG)
+![developed_app](https://user-images.githubusercontent.com/83624724/174799358-a6885190-545b-4561-bdfa-448137cff88e.PNG)
+
